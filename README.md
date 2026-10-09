@@ -1,5 +1,7 @@
 # PuntoBello SPO Permissions Governance
 
+> **Mirror:** This repository is a mirror of [diemobiliar/puntobello-spopermissionsgov](https://github.com/diemobiliar/puntobello-spopermissionsgov), published under the [MIT License](LICENSE.md). Please open issues and pull requests in the original repository.
+
 PuntoBello SPO Permissions Governance governs **selected-scope API permissions** in SharePoint Online and Microsoft Graph. It covers `Sites.Selected`, `Lists.SelectedOperations.Selected`, `ListItems.SelectedOperations.Selected` and `Files.SelectedOperations.Selected`.
 
 The solution has three parts:
